@@ -2,7 +2,7 @@ Hola 👋
 
 Me llamo Sebastian Soto, soy Tecnologo en Computacion y Desarrollo de Software, me encanta el mundo de la tecnologia, la programacion y en especial los videojuegos.
 
-#### Lenguajes y herramientas
+#### Lenguajes y herramientas que utilizo
 
 <span>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" alt="Laravel" />

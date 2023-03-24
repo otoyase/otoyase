@@ -1,8 +1,8 @@
 # 💫 Acerca de mi:
-¡Hola! me llamo Sebastian Soto, soy Tecnologo en Computacion y Desarrollo de Software, me gusta aprender sobre el mundo de la tecnologia, la programacion y los videojuegos. Actualmente me encuentro fortaleciendo mis conocimientos en Desarrollo Web. Aqui encontraras algunos de mi proyectos de aplicaciones web.
+¡Hola! me llamo Sebastian Soto, soy Tecnologo en Computacion y Desarrollo de Software, me gusta aprender sobre el mundo de la tecnologia, la programacion y los videojuegos. Actualmente me encuentro fortaleciendo mis conocimientos en Desarrollo Web. Podras encontrar algunos de mis proyectos si continuas bajando.
 
 
-## 🌐 Si gustas conocer un poco mas de mi trayectoria profesional o contactarme puede hacerlo desde las siguientes redes sociales:
+## 🌐 Si gustas conocer un poco mas de mi trayectoria profesional, o contactarme, puedes hacerlo desde las siguientes redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-soto-maya) 
 
 # 💻 Lenguajes, Frameworks y Bibliotecas que uso:
